@@ -1,0 +1,19 @@
+#main { height: 475px; background-color: #ECECEC; padding-top: 55px; }
+
+#main .container { height: 385px; }
+
+#main .container .login { background-color: #fff; width: 898px; height: 385px; border: 1px solid #ccc; margin: 0 auto; padding-top: 53px; position: relative; }
+
+#main .container .login .login_nav .register { position: absolute; top: -33px; left: 230px; background-color: #F8F8F8; border: 1px solid #ccc; border-bottom: none; }
+
+#main .container .login .login_nav li { position: absolute; top: -33px; left: 450px; text-align: center; float: left; height: 32px; width: 216px; background-color: #FFFFFF; border: 1px solid #FF9900; border-bottom: none; padding-top: 9px; }
+
+#main .container .login .login_r { float: right; width: 407px; }
+
+#main .container .login .login_r .input_size { border: 1px solid #ccc; height: 28px; width: 239px; }
+
+#main .container .login .login_r #output { width: 205px; height: 33px; background-color: #FF5A00; color: #fff; }
+
+#main .container .login .login_r .label { padding-left: 54px; }
+
+#main .container .login .login_l { float: left; width: 395px; padding-left: 56px; }

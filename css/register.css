@@ -1,0 +1,21 @@
+#main { height: 475px; background-color: #ECECEC; padding-top: 55px; }
+
+#main .container { height: 398px; }
+
+#main .container .login { background-color: #fff; width: 747px; height: 398px; border: 1px solid #ccc; margin: 0 auto; padding-top: 30px; position: relative; }
+
+#main .container .login .register_l { width: 433px; height: 385px; }
+
+#main .container .login .register_l li { line-height: 20px; }
+
+#main .container .login .register_l li #output { height: 29px; width: 169px; color: #fff; background-color: #FF5A00; }
+
+#main .container .login .register_l li .input_yan { height: 24px; width: 93px; border: 1px solid #ccc; }
+
+#main .container .login .register_l li .input_size { height: 24px; width: 205px; border: 1px solid #ccc; }
+
+#main .container .login .register_l li label { text-align: right; float: left; display: block; height: 24px; width: 125px; line-height: 24px; }
+
+#main .container .login .login_nav .register { position: absolute; top: -33px; left: 145px; background-color: #FFFFFF; border: 1px solid #FF9900; border-bottom: none; }
+
+#main .container .login .login_nav li { position: absolute; top: -33px; left: 365px; text-align: center; float: left; height: 32px; width: 216px; background-color: #F8F8F8; border: 1px solid #ccc; border-bottom: none; padding-top: 9px; }
